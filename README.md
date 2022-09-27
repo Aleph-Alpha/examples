@@ -34,11 +34,11 @@ The exercises are structured in the following way:
 
 ### Boilerplate
 The boilerplate folder contains the code templates for using the API. The templates are structured in the following way:
-| Template | Description | Internal Link |
-|----------|-------------|---------------|
-| 1 | Calling the API | [Template 1](boilerplate/01_calling_api.ipynb) |
-| 2 | Simple completion | [Template 2](boilerplate/02_simple_completion.ipynb) |
-| 3 | Simple search | [Template 3](boilerplate/03_simple_search.ipynb) |
-| 4 | Symmetric and Asymmetric Search | [Template 4](boilerplate/04_symmetric_and_asymmetric_search.ipynb) |
-| 5 | Hidden Embeddings | [Template 5](boilerplate/05_hidden_embeddings.ipynb) |
-| 6 | Combining functionalities | [Template 6](boilerplate/06_combining_functionalities.ipynb) |
+| Template | Description | Internal Link |  Colab Link |
+|----------|-------------|---------------|  -----------|
+| 1 | Calling the API | [Template 1](boilerplate/01_calling_api.ipynb) |    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Aleph-Alpha/examples/blob/main/boilerplate/01_calling_api.ipynb)|
+| 2 | Simple completion | [Template 2](boilerplate/02_simple_completion.ipynb) |    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Aleph-Alpha/examples/blob/main/boilerplate/02_simple_completion.ipynb)|
+| 3 | Simple search | [Template 3](boilerplate/03_simple_search.ipynb) |    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Aleph-Alpha/examples/blob/main/boilerplate/03_simple_search.ipynb)|
+| 4 | Symmetric and Asymmetric Search | [Template 4](boilerplate/04_symmetric_and_asymmetric_search.ipynb) |    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Aleph-Alpha/examples/blob/main/boilerplate/04_symmetric_and_asymmetric_search.ipynb)|
+| 5 | Hidden Embeddings | [Template 5](boilerplate/05_hidden_embeddings.ipynb) |    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Aleph-Alpha/examples/blob/main/boilerplate/05_hidden_embeddings.ipynb)|
+| 6 | Combining functionalities | [Template 6](boilerplate/06_combining_functionalities.ipynb) |    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Aleph-Alpha/examples/blob/main/boilerplate/06_combining_functionalities.ipynb)|
