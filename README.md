@@ -1,12 +1,44 @@
 # Luminous templates
 -------------------
+This repo provides some training examples for using the Aleph Alpha API.
+
+## Goal
+The goal of this repo is to provide a set of examples that can be used to easily understand and use the Aleph Alpha API.
+
 ## Getting Started with the Aleph Alpha Luminous Python API
 In this collection of materials, you will learn how to use the aleph-alpha-client to use Luminous models in python.
 This is intended to give a structured introduction to the client as well as Luminous model fucntionalities.
-You can find the exercise Notebooks in the "exercise" folder and the code templates in "templates".
+You can find the exercise Notebooks in the **exercises** folder and the code templates in **boilerplate** folder.
 
 ## Downloading the materials
 To download the material, we use github. You can download the materials by cloning the repository:
 ```bash
 git clone https://github.com/MarkusSchmitz/luminous-templates.git
 ```
+
+## Overview
+
+### Exercises
+The exercises are structured in the following way:
+| Exercise | Description | Internal Link |
+|----------|-------------|---------------|
+| 1 | Calling the API | [Exercise 1](exercises/01_api.ipynb) |
+| 2 | Simple completion | [Exercise 2](exercises/02_exercise_a.ipynb) |
+| 3 | Advanced completion | [Exercise 3](exercises/03_exercise_b.ipynb) |
+| 4 | Prompt_optimization | [Exercise 4](exercises/04_exercise_c.ipynb) |
+| 5 | A first look into search | [Exercise 5](exercises/05_exercise_d.ipynb) |
+| 6 | Symmetric vs. Asymmetric Search | [Exercise 6](exercises/06_exercise_e.ipynb) |
+| 7 | Combining functionalities | [Exercise 7](exercises/07_exercise_f.ipynb) |
+| 8 | Evaluating a task | [Exercise 7](exercises/08_exercise_g.ipynb) |
+
+
+### Boilerplate
+The boilerplate folder contains the code templates for using the API. The templates are structured in the following way:
+| Template | Description | Internal Link |
+|----------|-------------|---------------|
+| 1 | Calling the API | [Template 1](boilerplate/01_calling_api.ipynb) |
+| 2 | Simple completion | [Template 2](boilerplate/02_simple_completion.ipynb) |
+| 3 | Simple search | [Template 3](boilerplate/03_simple_search.ipynb) |
+| 4 | Symmetric and Asymmetric Search | [Template 4](boilerplate/04_symmetric_and_asymmetric_search.ipynb) |
+| 5 | Hidden Embeddings | [Template 5](boilerplate/05_hidden_embeddings.ipynb) |
+| 6 | Combining functionalities | [Template 6](boilerplate/06_combining_functionalities.ipynb) |
