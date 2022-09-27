@@ -13,7 +13,7 @@ You can find the exercise Notebooks in the **exercises** folder and the code tem
 ## Downloading the materials
 To download the material, we use github. You can download the materials by cloning the repository:
 ```bash
-git clone https://github.com/MarkusSchmitz/luminous-templates.git
+git clone https://github.com/Aleph-Alpha/examples.git
 ```
 
 ## Overview
