@@ -29,7 +29,7 @@ The exercises are structured in the following way:
 | 5 | A first look into search | [Exercise 5](exercises/05_exercise_d.ipynb) |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Aleph-Alpha/examples/blob/main/exercises/05_exercise_d.ipynb)|
 | 6 | Symmetric vs. Asymmetric Search | [Exercise 6](exercises/06_exercise_e.ipynb) |   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Aleph-Alpha/examples/blob/main/exercises/06_exercise_e.ipynb)|
 | 7 | Combining functionalities | [Exercise 7](exercises/07_exercise_f.ipynb) |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Aleph-Alpha/examples/blob/main/exercises/07_exercise_f.ipynb)|
-| 8 | Evaluating a task | [Exercise 7](exercises/08_exercise_g.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Aleph-Alpha/examples/blob/main/exercises/08_exercise_g.ipynb)|
+| 8 | Simple Gradio Demo | [Exercise 8](exercises/08_exercise_g.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Aleph-Alpha/examples/blob/main/exercises/08_exercise_g.ipynb)|
 
 
 ### Boilerplate
