@@ -1,27 +1,17 @@
 from typing import Sequence
 from aleph_alpha_client import (
-    AlephAlphaClient,
+    Client,
     Prompt,
-    AlephAlphaModel,
     CompletionRequest,
     SemanticEmbeddingRequest,
     SemanticRepresentation,
 )
-from scipy.spatial import distance
-
 import os
 import math
-
 import streamlit as st
 
 
-search_model = AlephAlphaModel.from_model_name(
-    model_name="luminous-base", token=os.getenv("API_TOKEN")
-)
-
-model = AlephAlphaModel.from_model_name(
-    model_name="luminous-extended", token=os.getenv("API_TOKEN")
-)
+client = Client(token="AA_TOKEN")
 
 
 # function for symmetric embeddings
@@ -29,7 +19,7 @@ def embed_symmetric(text: str):
     request = SemanticEmbeddingRequest(
         prompt=Prompt.from_text(text), representation=SemanticRepresentation.Symmetric
     )
-    result = search_model.semantic_embed(request)
+    result = client.semantic_embed(request, model="luminous-base")
     return result.embedding
 
 
@@ -38,7 +28,7 @@ def embed_query(text: str):
     request = SemanticEmbeddingRequest(
         prompt=Prompt.from_text(text), representation=SemanticRepresentation.Query
     )
-    result = search_model.semantic_embed(request)
+    result = client.semantic_embed(request,  model="luminous-base")
     return result.embedding
 
 
@@ -47,7 +37,7 @@ def embed_document(text: str):
     request = SemanticEmbeddingRequest(
         prompt=Prompt.from_text(text), representation=SemanticRepresentation.Document
     )
-    result = search_model.semantic_embed(request)
+    result = client.semantic_embed(request, model="luminous-base")
     return result.embedding
 
 
@@ -72,7 +62,7 @@ def complete(text: str):
         temperature=0.2,
         stop_sequences=["\n"],
     )
-    result = model.complete(request)
+    result = client.complete(request, model="luminous-extended")
     return result.completions[0].completion
 
 
