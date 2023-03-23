@@ -43,3 +43,12 @@ The boilerplate folder contains the code templates for using the API. The templa
 | 5 | Hidden Embeddings | [Template 5](boilerplate/05_hidden_embeddings.ipynb) |    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Aleph-Alpha/examples/blob/main/boilerplate/05_hidden_embeddings.ipynb)|
 | 6 | Task-specific Endpoints | [Template 6](boilerplate/06_task_specific_endpoints.ipynb) |    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Aleph-Alpha/examples/blob/main/boilerplate/06_task_specific_endpoints.ipynb)|
 | 7 | Simple Gradio extraction app | [Template 8](boilerplate/08_gradio_app.ipynb) |    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Aleph-Alpha/examples/blob/main/boilerplate/08_gradio_app.ipynb)
+
+### Bootcamp
+| Template | Description | Internal Link |  Colab Link |
+|----------|-------------|---------------|  -----------|
+| 1 | completion | [Template 1](bootcamp/completion.ipynb) |    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Aleph-Alpha/examples/blob/main/bootcamp/completion.ipynb)|
+| 2 | search | [Template 2](bootcamp/search.ipynb) |    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Aleph-Alpha/examples/blob/main/bootcamp/search.ipynb)|
+| 3 | qa | [Template 3](bootcamp/qa.ipynb) |    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Aleph-Alpha/examples/blob/main/bootcamp/qa.ipynb)|
+| 4 | multimodal | [Template 4](bootcamp/multimodal.ipynb) |    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Aleph-Alpha/examples/blob/main/bootcamp/multimodal.ipynb)|
+| 5 | conversational | [Template 5](bootcamp/conversational.ipynb) ||
