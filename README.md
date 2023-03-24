@@ -51,4 +51,5 @@ The boilerplate folder contains the code templates for using the API. The templa
 | 2 | search | [Template 2](bootcamp/search.ipynb) |    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Aleph-Alpha/examples/blob/main/bootcamp/search.ipynb)|
 | 3 | qa | [Template 3](bootcamp/qa.ipynb) |    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Aleph-Alpha/examples/blob/main/bootcamp/qa.ipynb)|
 | 4 | multimodal | [Template 4](bootcamp/multimodal.ipynb) |    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Aleph-Alpha/examples/blob/main/bootcamp/multimodal.ipynb)|
-| 5 | conversational | [Template 5](bootcamp/conversational.ipynb) ||
+| 5 | atman | [Template 5](bootcamp/atman.ipynb) |    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Aleph-Alpha/examples/blob/main/bootcamp/atman.ipynb)|
+| 6 | conversational | [Template 5](bootcamp/conversational.ipynb) ||
