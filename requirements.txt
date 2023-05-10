@@ -1,5 +1,8 @@
 pandas
 numpy
 streamlit
-aleph-alpha-client >= 1.2.4
+aleph-alpha-client
 scipy
+qdrant-client
+langchain
+scikit-learn
