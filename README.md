@@ -47,9 +47,8 @@ The boilerplate folder contains the code templates for using the API. The templa
 ### Bootcamp
 | Template | Description | Internal Link |  Colab Link |
 |----------|-------------|---------------|  -----------|
-| 1 | completion | [Template 1](bootcamp/completion.ipynb) |    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Aleph-Alpha/examples/blob/main/bootcamp/completion.ipynb)|
-| 2 | search | [Template 2](bootcamp/search.ipynb) |    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Aleph-Alpha/examples/blob/main/bootcamp/search.ipynb)|
-| 3 | qa | [Template 3](bootcamp/qa.ipynb) |    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Aleph-Alpha/examples/blob/main/bootcamp/qa.ipynb)|
-| 4 | multimodal | [Template 4](bootcamp/multimodal.ipynb) |    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Aleph-Alpha/examples/blob/main/bootcamp/multimodal.ipynb)|
-| 5 | atman | [Template 5](bootcamp/atman.ipynb) |    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Aleph-Alpha/examples/blob/main/bootcamp/atman.ipynb)|
-| 6 | conversational | [Template 5](bootcamp/conversational.ipynb) ||
+| 1 | completion | [Template 1](bootcamp/01_completion.ipynb) |    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Aleph-Alpha/examples/blob/main/bootcamp/01_completion.ipynb)|
+| 2 | search | [Template 2](bootcamp/02_search.ipynb) |    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Aleph-Alpha/examples/blob/main/bootcamp/02_search.ipynb)|
+| 3 | qa | [Template 3](bootcamp/03_classify.ipynb) |    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Aleph-Alpha/examples/blob/main/bootcamp/03_classify.ipynb)|
+| 4 | multimodal | [Template 4](bootcamp/04_atman.ipynb) |    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Aleph-Alpha/examples/blob/main/bootcamp/04_atman.ipynb)|
+| 5 | atman | [Template 5](bootcamp/05_pipeline.ipynb) |    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Aleph-Alpha/examples/blob/main/bootcamp/05_pipeline.ipynb)|
