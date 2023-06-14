@@ -18,19 +18,14 @@ git clone https://github.com/Aleph-Alpha/examples.git
 
 ## Overview
 
-### Exercises
-The exercises are structured in the following way:
-| Exercise | Description | Internal Link | Colab Link |
-|----------|-------------|---------------|------------|
-| 1 | Calling the API | [Exercise 1](exercises/01_api.ipynb) |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Aleph-Alpha/examples/blob/main/exercises/01_api.ipynb)|
-| 2 | Simple completion | [Exercise 2](exercises/02_exercise_a.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Aleph-Alpha/examples/blob/main/exercises/02_exercise_a.ipynb)|
-| 3 | Advanced completion | [Exercise 3](exercises/03_exercise_b.ipynb) |   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Aleph-Alpha/examples/blob/main/exercises/03_exercise_b.ipynb)|
-| 4 | Prompt_optimization | [Exercise 4](exercises/04_exercise_c.ipynb) |   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Aleph-Alpha/examples/blob/main/exercises/04_exercise_c.ipynb)|
-| 5 | A first look into search | [Exercise 5](exercises/05_exercise_d.ipynb) |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Aleph-Alpha/examples/blob/main/exercises/05_exercise_d.ipynb)|
-| 6 | Symmetric vs. Asymmetric Search | [Exercise 6](exercises/06_exercise_e.ipynb) |   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Aleph-Alpha/examples/blob/main/exercises/06_exercise_e.ipynb)|
-| 7 | Combining functionalities | [Exercise 7](exercises/07_exercise_f.ipynb) |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Aleph-Alpha/examples/blob/main/exercises/07_exercise_f.ipynb)|
-| 8 | Simple Gradio Demo | [Exercise 8](exercises/08_exercise_g.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Aleph-Alpha/examples/blob/main/exercises/08_exercise_g.ipynb)|
-
+### Bootcamp
+| Template | Description | Internal Link |  Colab Link |
+|----------|-------------|---------------|  -----------|
+| 1 | completion | [Template 1](bootcamp/01_completion.ipynb) |    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Aleph-Alpha/examples/blob/main/bootcamp/01_completion.ipynb)|
+| 2 | search | [Template 2](bootcamp/02_search.ipynb) |    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Aleph-Alpha/examples/blob/main/bootcamp/02_search.ipynb)|
+| 3 | classify | [Template 3](bootcamp/03_classify.ipynb) |    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Aleph-Alpha/examples/blob/main/bootcamp/03_classify.ipynb)|
+| 4 | AtMan | [Template 4](bootcamp/04_atman.ipynb) |    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Aleph-Alpha/examples/blob/main/bootcamp/04_atman.ipynb)|
+| 5 | pipeline | [Template 5](bootcamp/05_pipeline.ipynb) |    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Aleph-Alpha/examples/blob/main/bootcamp/05_pipeline.ipynb)|
 
 ### Boilerplate
 The boilerplate folder contains the code templates for using the API. The templates are structured in the following way:
@@ -44,11 +39,3 @@ The boilerplate folder contains the code templates for using the API. The templa
 | 6 | Task-specific Endpoints | [Template 6](boilerplate/06_task_specific_endpoints.ipynb) |    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Aleph-Alpha/examples/blob/main/boilerplate/06_task_specific_endpoints.ipynb)|
 | 7 | Simple Gradio extraction app | [Template 8](boilerplate/08_gradio_app.ipynb) |    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Aleph-Alpha/examples/blob/main/boilerplate/08_gradio_app.ipynb)
 
-### Bootcamp
-| Template | Description | Internal Link |  Colab Link |
-|----------|-------------|---------------|  -----------|
-| 1 | completion | [Template 1](bootcamp/01_completion.ipynb) |    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Aleph-Alpha/examples/blob/main/bootcamp/01_completion.ipynb)|
-| 2 | search | [Template 2](bootcamp/02_search.ipynb) |    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Aleph-Alpha/examples/blob/main/bootcamp/02_search.ipynb)|
-| 3 | classify | [Template 3](bootcamp/03_classify.ipynb) |    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Aleph-Alpha/examples/blob/main/bootcamp/03_classify.ipynb)|
-| 4 | AtMan | [Template 4](bootcamp/04_atman.ipynb) |    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Aleph-Alpha/examples/blob/main/bootcamp/04_atman.ipynb)|
-| 5 | pipeline | [Template 5](bootcamp/05_pipeline.ipynb) |    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Aleph-Alpha/examples/blob/main/bootcamp/05_pipeline.ipynb)|
